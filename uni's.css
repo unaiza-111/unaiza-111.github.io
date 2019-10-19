@@ -1,0 +1,45 @@
+#uni {
+	width:25%;
+	border: dotted black 5px;
+	}
+#love{
+	width:50%;
+	border: dotted black 5px;
+	}
+#life{
+	width:30%;
+	border: dotted black 5px;
+	
+}
+.caption {
+	color: blue;
+/*	font-style: ariel;*/
+	font-size:50
+	
+	
+}
+
+*{
+	font-family:Courier;
+}
+
+
+body {
+	font-family: Courier;
+	font-style: ariel;
+	color: black;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border: solid black 5px;
+	width: 30%;
+}
+
+h1 {
+	color: green; 
+	text-align: center;
+/*	font-family: Georgia;*/
+}
