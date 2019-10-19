@@ -1,0 +1,35 @@
+body {
+	font-family: Courier;
+	
+	font-style: ariel;
+	
+	background-color: green;
+	
+}
+
+romain {
+
+	width: 25%;
+	border: black;
+}
+
+.caption{
+	text-align: right;
+}
+h1 {
+	color: white; 
+
+	}  
+
+p{
+	Color: white;	
+	}
+	
+	
+h2{
+	color: black;
+}
+p{
+	color: white;
+	
+}
